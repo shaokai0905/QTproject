@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      app
+      app组件
   </div>
 </template>
 
